@@ -1,0 +1,6 @@
+framework module Pods_binomo {
+  umbrella header "Pods-binomo-umbrella.h"
+
+  export *
+  module * { export * }
+}
